@@ -1,0 +1,7 @@
+motor--PC1 PC2
+lcd--PB1 - PB5
+ultrosonic-- PB0,PD4
+buzzer -- PD6
+Button -- PD0-PD3
+RTC -- PC4,PC5
+LED -- PC3
