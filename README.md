@@ -1,7 +1,7 @@
 # Alarmo Robot — Mobile Alarm Clock That Runs Away (ATmega328PB, Bare-Metal C)
 
 Alarmo is a **mobile alarm clock robot** designed to solve oversleeping by forcing physical interaction: when the alarm triggers, the robot **drives away from the user**, plays a loud buzzer, and **avoids obstacles** to make “snooze-in-bed” difficult.
-
+![alt text](images/alarmo.JPG)
 ## Demo
 - YouTube: https://www.youtube.com/watch?v=o-xq1MFMQaQ
 
